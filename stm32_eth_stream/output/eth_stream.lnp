@@ -1,0 +1,13 @@
+--cpu=Cortex-M4.fp
+".\output\eth_stream.o"
+".\output\rcc_control.o"
+".\output\flash_control.o"
+".\output\ethernet.o"
+".\output\misc_func.o"
+".\output\ov9655.o"
+".\output\timers.o"
+".\output\startup_stm32f407xx.o"
+".\output\system_stm32f4xx.o"
+--ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\eth_stream.map" -o .\output\eth_stream.axf

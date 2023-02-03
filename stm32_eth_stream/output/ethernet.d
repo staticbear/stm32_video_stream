@@ -1,0 +1,12 @@
+.\output\ethernet.o: sources\ethernet.c
+.\output\ethernet.o: sources\ethernet.h
+.\output\ethernet.o: D:\Keil_5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\output\ethernet.o: D:\Keil_5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\output\ethernet.o: D:\Keil_5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h
+.\output\ethernet.o: D:\Keil_5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\ethernet.o: D:\Keil_5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\output\ethernet.o: D:\Keil_5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\output\ethernet.o: D:\Keil_5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\output\ethernet.o: sources\misc_func.h
+.\output\ethernet.o: sources\flash_control.h
+.\output\ethernet.o: sources\ov9655.h

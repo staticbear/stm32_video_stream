@@ -1,0 +1,9 @@
+.\output\misc_func.o: sources\misc_func.c
+.\output\misc_func.o: sources\misc_func.h
+.\output\misc_func.o: D:\Keil_5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\output\misc_func.o: D:\Keil_5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\output\misc_func.o: D:\Keil_5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h
+.\output\misc_func.o: D:\Keil_5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\misc_func.o: D:\Keil_5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\output\misc_func.o: D:\Keil_5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\output\misc_func.o: D:\Keil_5\ARM\PACK\Keil\STM32F4xx_DFP\2.15.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
